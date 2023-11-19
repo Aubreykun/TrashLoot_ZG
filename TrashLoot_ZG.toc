@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: TrashLoot_ZG
+## Author: Aubreykun
+## Notes: Auto-Needs on coins/bijous in ZG. Based on BMLoot Addon by McPewPew
+## Version: 0.0001
+
+TrashLoot_ZG.lua
