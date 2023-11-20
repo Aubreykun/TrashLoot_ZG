@@ -1,5 +1,5 @@
 DEFAULT_CHAT_FRAME:AddMessage("TrashLoot: Zul'Gurub Edition is collectin' coins and bijous for ya mon!", 1, 0, 1);
- = CreateFrame("Frame")
+TrashLoot_ZG = CreateFrame("Frame")
 TrashLoot_ZG:RegisterEvent("START_LOOT_ROLL") 
 TrashLoot_ZG:RegisterEvent("LOOT_BIND_CONFIRM")
 TrashLoot_ZG:RegisterEvent("ZONE_CHANGED_NEW_AREA")
